@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "https://intranet.alxswe.com/projects/209#:~:text=script%20that%20prints-,hello%20user,-%2C%20where%20user%20is"
+echo "hello $USER"
